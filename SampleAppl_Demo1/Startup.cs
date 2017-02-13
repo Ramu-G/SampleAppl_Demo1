@@ -13,6 +13,7 @@ namespace SampleAppl_Demo1
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //Test
         }
     }
 }
